@@ -1,0 +1,6 @@
+{
+  "name": "經典貪食蛇",
+  "description": "支援 360 度滑鼠游標流暢轉彎、無限擴張地圖、自身穿梭免疫、吃食物長度與粗度暴增、智慧群蛇包圍對決的貪食蛇遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
